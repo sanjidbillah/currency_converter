@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "697710934671",
+    "firebase_url": "https://currency-a7e47.firebaseio.com",
+    "project_id": "currency-a7e47",
+    "storage_bucket": "currency-a7e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697710934671:android:a8b660d21ba81cafea0efa",
+        "android_client_info": {
+          "package_name": "com.kinship.currency_converter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697710934671-f7vae8eotf94ncqhkah4hhf9k5tsg7rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinship.currency_converter",
+            "certificate_hash": "f44b1ac95862c7f024028accc61709562e6d5dfa"
+          }
+        },
+        {
+          "client_id": "697710934671-0urj9lku52ah4n9pt0uq41r5o887o0m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-gIWRg2kWD3ee2_Z5iE_lgh8pV6BJws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697710934671-0urj9lku52ah4n9pt0uq41r5o887o0m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6975533553106709~9303384964"
+    }
+  ],
+  "configuration_version": "1"
+}
